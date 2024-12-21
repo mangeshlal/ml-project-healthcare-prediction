@@ -1,1 +1,1 @@
-# ml-project-healthcare-prediction
+ml-project-premium-prediction
